@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif, old-english;
+}
+
+h1 {
+  margin: 0 auto;
+  font-family: "Brush Script MT", sans-serif;
+  font-size: 50px;
+}
+
+h2 {
+  font-family: "Courier New";
+  font-size: 30px;
+  margin-top: 0;
+}
+
+.head {
+  background-image: url("BG.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: #e1b5aa;
+  text-align: center;
+  padding-top: 10px;
+  position: relative;
+}
+
+.middle {
+  text-align: center;
+  background-color: white;
+}
+
+.bottom {
+  background-image: url("BG2.jpg");
+  background-size: auto;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  text: shadow 5px;
+  text-align: center;
+  background-color: brown;
+  position: relative;
+}
+
+img {
+  border-radius: 8px;
+}
